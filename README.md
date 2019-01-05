@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/qcNHtEk.png" title="Cyberscan">
-```
+
 <img src="https://i.imgur.com/f04F2OJ.png" title="Cyberscan">
 
 # ABOUT.
@@ -21,13 +21,13 @@ Installation and download of Cyberscan
 </pre></i></n>
 
 # REQUIREMENTS:
-Have Python Version 2.7 Installed
-import BeautifulSoup
-import urlparse
-import mechanize
+Have Python Version 2.7 Installed <br>
+import BeautifulSoup <br>
+import urlparse <br>
+import mechanize <br>
 
 # INSTRUCTIONS:
-Give click Click, and the tool will be executed, one executed, you put the url, example: www.google.com; You will have the possible vulnerable directories of the website
+Give click Click, and the tool will be executed, one executed, you put the url, example: http://www.google.com; You will have the possible vulnerable directories of the website
 For educational purposes.
 
 # USAGE
@@ -38,7 +38,7 @@ Questions, bugs or suggestions to : hackinglivebooking@gmail.com
 
 # LICENSE
 IpScanner is licensed. 
-See [LICENSE](https://github.com/HackingEnVivo/IpScanner/blob/master/LICENSE) for more information.
+See [LICENSE](https://github.com/HackingEnVivo/Cyberscan/blob/master/LICENSE) for more information.
 
 We need partners, if you're interested in support or help contact.
 
